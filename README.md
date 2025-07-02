@@ -20,6 +20,5 @@ This project provides an in-depth analysis of housing sale data through a series
  Ensure you have Tableau Desktop installed to open the TWB file.
  Any standard software capable of opening PowerPoint files (e.g., Microsoft PowerPoint, Google Slides) can be used to view the presentation.
  The Excel dataset can be viewed and manipulated with any software supporting Excel files, such as Microsoft Excel or Google Sheets.
-## Contributing
- We welcome contributions from the community! Whether you have suggestions for additional analyses, improvements to the dashboards, or would like to contribute to the dataset, please feel free to open an issue or submit a pull request.
+
 
